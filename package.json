@@ -74,6 +74,11 @@
     "vaul": "^1.1.2",
     "vitest": "^3.2.3"
   },
+  "overrides": {
+    "serialize-javascript": "^7.0.4",
+    "minimatch": "^9.0.5",
+    "ajv": "^8.17.1"
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.10",
     "@vitejs/plugin-react": "^4.5.2",
@@ -83,9 +88,9 @@
     "postcss": "^8.5.5",
     "prettier": "^3.2.5",
     "rollup-plugin-visualizer": "^6.0.3",
-    "serve": "^14.2.4",
+    "serve": "^14.2.5",
     "tailwindcss": "^4.1.10",
     "vite": "^6.3.5",
-    "vite-plugin-pwa": "^1.0.0"
+    "vite-plugin-pwa": "^0.21.2"
   }
 }
