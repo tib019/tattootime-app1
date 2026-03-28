@@ -1,4 +1,4 @@
-# 🎨 TattooTime App
+# TattooTime App
 
 [![React](https://img.shields.io/badge/React-19.0+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -10,7 +10,7 @@ Eine moderne Webanwendung zur Verwaltung von Tattoo-Terminen mit Echtzeit-Datenb
 
 ---
 
-## 📋 Projektübersicht
+## Projektübersicht
 
 | Eigenschaft | Details |
 |---|---|
@@ -23,7 +23,7 @@ Eine moderne Webanwendung zur Verwaltung von Tattoo-Terminen mit Echtzeit-Datenb
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Terminbuchung** – Kunden können Termine online buchen und verwalten
 - **Admin-Dashboard** – Vollständige Studio-Verwaltung für Betreiber
@@ -36,26 +36,26 @@ Eine moderne Webanwendung zur Verwaltung von Tattoo-Terminen mit Echtzeit-Datenb
 
 ---
 
-## 📁 Projektstruktur
+## Projektstruktur
 
 ```
 tattootime-app1/
-├── src/
-│   ├── components/        # Wiederverwendbare UI-Komponenten
-│   ├── pages/             # Seitenkomponenten (Routing)
-│   ├── hooks/             # Custom React Hooks
-│   ├── lib/               # Utilities und Firebase-Konfiguration
-│   └── types/             # TypeScript-Typdefinitionen
-├── functions/             # Firebase Cloud Functions (Backend)
-├── public/                # Statische Assets
-├── firebase.json          # Firebase-Konfiguration
-├── firestore.rules        # Firestore-Sicherheitsregeln
-└── package.json
+ src/
+ components/ # Wiederverwendbare UI-Komponenten
+ pages/ # Seitenkomponenten (Routing)
+ hooks/ # Custom React Hooks
+ lib/ # Utilities und Firebase-Konfiguration
+ types/ # TypeScript-Typdefinitionen
+ functions/ # Firebase Cloud Functions (Backend)
+ public/ # Statische Assets
+ firebase.json # Firebase-Konfiguration
+ firestore.rules # Firestore-Sicherheitsregeln
+ package.json
 ```
 
 ---
 
-## 🛠️ Installation & Setup
+## ️ Installation & Setup
 
 ### Voraussetzungen
 
@@ -97,7 +97,7 @@ firebase deploy --only functions
 
 ---
 
-## 🔧 Verfügbare Scripts
+## Verfügbare Scripts
 
 | Script | Beschreibung |
 |---|---|
@@ -108,7 +108,7 @@ firebase deploy --only functions
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 Das Projekt ist für Deployment auf **Vercel** (Frontend) und **Firebase** (Backend/DB) konfiguriert.
 
@@ -122,12 +122,12 @@ firebase deploy
 
 ---
 
-## 👨‍💻 Autor
+## ‍ Autor
 
 **Tobias** – [@tib019](https://github.com/tib019)
 
 ---
 
-## 📄 Lizenz
+## Lizenz
 
 MIT License – siehe [LICENSE](LICENSE) für Details.
