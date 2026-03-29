@@ -55,7 +55,7 @@ tattootime-app1/
 
 ---
 
-## ️ Installation & Setup
+## Installation & Setup
 
 ### Voraussetzungen
 
@@ -122,9 +122,9 @@ firebase deploy
 
 ---
 
-## ‍ Autor
+## Autor
 
-**Tobias** – [@tib019](https://github.com/tib019)
+**Tobias Buss** – [@tib019](https://github.com/tib019)
 
 ---
 
